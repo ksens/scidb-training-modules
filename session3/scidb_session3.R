@@ -88,7 +88,7 @@ source('~/eqtl/lappalainen/2-genotype-qc/genotype_qc.R')
 hardy_weinberg_equilibrium(chromosome = 20, start_coord = 10000240, end_coord = 12000240)
 
 ################################################################
-##### Exercise: Load data provided by Roche ####
+##### Exercise: Load Gene coordinates ####
 
 # View the code for loading Entrez gene coordinates at:
 # https://github.com/Paradigm4/eQTL/blob/master/lappalainen/0-metadata/loaders.sh
